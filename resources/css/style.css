@@ -116,6 +116,7 @@ header {
   width: auto;
   float: left;
   font-size: 3.5rem;
+  font-weight: 500;
 }
 .logo span {
   color: rgb(245, 22, 41);
